@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🧠 Atualmente Estudando HTML, CSS e JavaScript
-- 📫 Cursando Tecnico em Informática na Instituição Federal de Rondônia
-- 😄 Pronouns: ele/dele
+- 📫 Técnico em Informática em andamento pela Instituição Federal de Rondônia
+- 😎 Pronomes: ele/dele
 
 <picture>
   <source
