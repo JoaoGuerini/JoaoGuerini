@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm João Guerini</h1>
-<h3 align="center">A programming enthusiast from Brazil</h3>
+<h3 align="center">console.log("Welcome to my github profile!")</h3>
 
 - 🌱 I’m currently learning **JS, React, React Native**
 
