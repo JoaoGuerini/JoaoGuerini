@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm João Guerini</h1>
 <h3 align="center"><code>console.log("Welcome to my github profile!")</code></h3>
 
-- 🌱 I’m currently learning **JS, React, React Native**
+- 🌱 I’m currently learning **JS, React, React Native and .NET MAUI**
 - 🫀 Student at the **IFRO - Instituto Federal de Rondônia**
 
 <h3 align="center">Connect with me:</h3>
